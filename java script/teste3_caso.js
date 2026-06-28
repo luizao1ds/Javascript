@@ -1,7 +1,7 @@
 const prompt = require('prompt-sync')();
 
 
-const expressao =  prompt('Voce deseja comprar qual fruta? ');;
+const expressao =  prompt('Voce deseja comprar qual fruta? ');
 
 switch (expressao) {
   case "banana":
